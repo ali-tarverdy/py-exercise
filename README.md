@@ -7,4 +7,3 @@
 - ansible
 - docker
 - 💞️ I’m looking to collaborate on projects specially python language
-
